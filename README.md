@@ -38,7 +38,7 @@ Hey there! 👋 I'm Marmik, a passionate Full-Stack Developer with a keen intere
 
 ## 📫 How to reach me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marmik-dave/) or send me an email at [marmikdave69@gmail.com](marmik:marmikdave69@.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marmik-dave/) or send me an email at [Mail](marmik:marmikdave69@.com).
 
 ---
 
