@@ -12,9 +12,9 @@
 
 ![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,html,css&theme=light&perline=4)
 
-```Other Technologies```
+```Back-End & Database Technologies```
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=light)
 
 ```Tools & Platforms```
 
