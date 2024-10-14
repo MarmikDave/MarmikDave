@@ -1,45 +1,34 @@
-# Marmik Dave 👨‍💻
+## 👤 About Me
+> 💻 Tech Enthusiast | Passionate Full-Stack Developer | Web3 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marmik-dave/)
+👨‍💻 Hey there! I'm a Full-stack developer specializing in MERN stack and Web3 technologies. Passionate about building scalable web applications and exploring blockchain solutions, with experience in AI integration and cloud services 🚀✨
 
-## About Me
+## ⚙️ Tech Stack
+```Programming Languages```
 
-Hey there! 👋 I'm Marmik, a passionate Full-Stack Developer with a keen interest in Blockchain technology. Welcome to my GitHub profile!
+![My Skills](https://skillicons.dev/icons?i=js,c,solidity&theme=light)
 
-- 🔭 I'm currently working on: Full-Stack Projects
-- 🌱 I'm currently learning: MERN stack development, Rollups
-- 👯 I'm looking to collaborate on: Blockchain and Full-Stack Development projects
-- 💬 Ask me about: My projects, Blockchain technology, or anything tech-related!
+```Front-End Technologies```
 
-## 💻 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,html,css&theme=light&perline=4)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+```Other Technologies```
 
-### Frontend
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light)
 
-### Backend
-![NodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJs](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+```Tools & Platforms```
 
-### Tools & Technologies
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=github,postman,vercel,aws,vscode&theme=light&perline=6)
 
 
-## 📫 How to reach me
+## 🤝 Let's get Connected
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marmik-dave/) or send me an email at [marmikdave69@gmail.com](marmik:marmikdave69@.com).
+<p align="left">
+<a href="https://www.linkedin.com/in/marmik-dave/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kk-linkedin" height="30" width="40" /></a>
+<a href="https://x.com/Marmik_Dave8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kk-twitter" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/akaza_u3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kk-discord" height="40" width="40" /></a>
+</p>
 
----
-
-⭐️ From [MarmikDave](https://github.com/MarmikDave)
+<div align="center">
+  <h2>🙋‍♂️ Thanks for visiting!</h2>
+</div>
