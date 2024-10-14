@@ -6,7 +6,7 @@
 ## ⚙️ Tech Stack
 ```Programming Languages```
 
-![My Skills](https://skillicons.dev/icons?i=js,c,solidity&theme=light)
+![My Skills](https://skillicons.dev/icons?i=js,python,solidity&theme=light)
 
 ```Front-End Technologies```
 
