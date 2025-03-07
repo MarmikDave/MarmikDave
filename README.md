@@ -14,7 +14,7 @@
 
 ```Back-End & Database Technologies```
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=light)
+![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,nestjs,express,mysql,mongodb&theme=light)
 
 ```Tools & Platforms```
 
